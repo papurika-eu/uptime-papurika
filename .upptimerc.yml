@@ -17,7 +17,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Papurika
   introTitle: ""
-  introMessage:
-
+  introMessage: 
+  navbar:
+    - title: Status
+      href: /
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
