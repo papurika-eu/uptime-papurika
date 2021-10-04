@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1075,
-    "timeDay": 1075,
-    "timeWeek": 1075,
-    "timeMonth": 1075,
-    "timeYear": 1075,
+    "time": 653,
+    "timeDay": 653,
+    "timeWeek": 653,
+    "timeMonth": 653,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/www.papurika.eu",
     "slug": "homepage",
     "status": "up",
-    "uptime": "20.08%",
-    "uptimeDay": "20.08%",
-    "uptimeWeek": "20.08%",
-    "uptimeMonth": "20.08%",
-    "uptimeYear": "20.08%",
-    "time": 323,
-    "timeDay": 323,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "uptime": "72.21%",
+    "uptimeDay": "72.21%",
+    "uptimeWeek": "72.21%",
+    "uptimeMonth": "72.21%",
+    "uptimeYear": "72.21%",
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2021-10-03": 181
     }
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-03": 227
+      "2021-10-04": 29,
+      "2021-10-03": 623
     }
   },
   {
@@ -74,7 +75,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-03": 227
+      "2021-10-04": 29,
+      "2021-10-03": 623
     }
   }
 ]
