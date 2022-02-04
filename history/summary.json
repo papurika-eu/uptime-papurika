@@ -4,19 +4,19 @@
     "url": "https://papurika.eu",
     "icon": "https://favicons.githubusercontent.com/papurika.eu",
     "slug": "redirection",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 357,
-    "timeDay": 235,
-    "timeWeek": 211,
+    "timeDay": 272,
+    "timeWeek": 226,
     "timeMonth": 357,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 13
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-04": 538,
+      "2022-02-04": 551,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-04": 538,
+      "2022-02-04": 551,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
